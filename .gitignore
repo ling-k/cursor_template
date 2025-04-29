@@ -4,7 +4,6 @@ ocr-june-17508def38be.json
 .env
 *.png
 
-# Python
 __pycache__/
 *.egg-info/
 .installed.cfg
