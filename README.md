@@ -10,6 +10,7 @@ Quick start for cursor dev, including:
     ```bash
     python -m venv myenv
     ```
+    - Cursor will pop up a window saying "Set as default Python interpreter", click yes. 
 
 2. Activate the virtual environment:
     - On Unix or MacOS:
