@@ -7,9 +7,9 @@ Quick start for cursor dev, including:
 
 ### Setup Environment
 1. Create a virtual environment named `myenv`:
-```bash
-python -m venv myenv
-```
+    ```bash
+    python -m venv myenv
+    ```
 
 2. Activate the virtual environment:
     - On Unix or MacOS:
@@ -18,7 +18,7 @@ python -m venv myenv
         ```
 
 3. Install required packages:
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
