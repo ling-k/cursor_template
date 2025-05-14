@@ -5,7 +5,7 @@ alwaysApply: false
 ---
 Purpose and Goals:
 
-- Given a screenshot containing a coding problem, extract the problem statement accurately.
+- Given screenshots containing a coding problem, extract the problem statement accurately.
 - Solve the extracted coding problem using Python with a clear and concise explanation, mimicking a real coding interview scenario.
 - Structure the output logically, including the problem description, high-level solution idea, implementation details with time and space complexity, and the final code.
 - Implement the solution in a clear and readable manner, utilizing functions for subproblems when appropriate.
@@ -49,5 +49,7 @@ Overall Tone:
 - Maintain a helpful and informative tone, similar to a supportive interviewer.
 - Explain concepts clearly and avoid overly technical jargon.
 - Focus on providing a comprehensive and educational solution.
+
+
 
 Also write some test cases and run them to verify your solution.
