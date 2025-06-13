@@ -23,3 +23,5 @@ Quick start for cursor dev, including:
     pip install -r requirements.txt
     ```
 
+
+## Please feel free to add rule. 
