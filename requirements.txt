@@ -5,7 +5,7 @@ seaborn
 scikit-learn 
 scipy 
 # sentence-transformers
-# transformers
+# 
 
 ######## torch-geometric and its dependencies - Python 3.10 
 # torch==2.3.0+cpu
